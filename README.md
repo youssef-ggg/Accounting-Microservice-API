@@ -2,8 +2,8 @@
 
 This is a single entry accounting API template using Test driven development and SOLID princples from Bob Martins clean architecture.
 
-[The factory functions style of coding I learned from Bill Sourour here.](https://youtu.be/CnailTcJV_U)
-[This is the Accounting model used in this code.](https://youtu.be/i8RIh04AaD8)
+* [This is the Accounting model used in this code.](https://youtu.be/i8RIh04AaD8)
+* [The factory functions style of coding I learned from Bill Sourour here.](https://youtu.be/CnailTcJV_U)
 
 ## How it works
 * This code has three main layers the (financialTransaction) model -> use-cases -> controllers. 
