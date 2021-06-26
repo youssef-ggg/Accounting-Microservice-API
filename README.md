@@ -12,7 +12,8 @@ This is a single entry accounting API template using Test driven development and
 * jest and mongo-memory-server are used to test each layer.
 
 ## Reasoning
->This code showcases how I would write backend projects using node.js. I learned this
+
+This code showcases how I would write backend projects using node.js.
 
 ## Running Locally
 
